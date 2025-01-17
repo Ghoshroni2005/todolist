@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: radial-gradient(
+    ellipse 200% 100% at bottom left,
+    #8753ae,
+    #eaeefe 60%
+  );
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
